@@ -1,1 +1,3 @@
-# Ing-de-Software---Script---Trabajo-Practico-Obligatorio
+Ing de Software
+Script
+Trabajo Practico Obligatorio
